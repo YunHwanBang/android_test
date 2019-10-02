@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "881092499173",
+    "firebase_url": "https://korea-ox.firebaseio.com",
+    "project_id": "korea-ox",
+    "storage_bucket": "korea-ox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881092499173:android:419980d348c64c04",
+        "android_client_info": {
+          "package_name": "com.ox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881092499173-8795ssu92m1ta6abju0i6pq4uieofd6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ox",
+            "certificate_hash": "7a3d231b4d1518c39bb23a70a859ce52b5306beb"
+          }
+        },
+        {
+          "client_id": "881092499173-r8gv4nmhh6bsfaoji31nhdn7qua6imlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOqPqfNRU-gQznx50_mOfvbdw9_f27f1Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881092499173-r8gv4nmhh6bsfaoji31nhdn7qua6imlc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881092499173-pbbiuolcaimeqkprsrue0jn68of1be0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.informade.app"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

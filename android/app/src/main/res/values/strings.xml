@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">쏠쏠한 선택</string>
+    <string name="facebook_app_id">247258555961776</string>
+    <string name="fb_login_protocol_scheme">fb247258555961776</string>
+    <string name="kakao_app_key">68a634e9d01e5b3940b54e712720fa1f</string>
+    <string name="kakao_scheme">kakao68a634e9d01e5b3940b54e712720fa1f</string>
+    <string name="kakaolink_host">kakaolink</string>
+</resources>
